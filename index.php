@@ -1,3 +1,3 @@
-welcome to my webserver
+WEBSERVER / CLOUD-COMPUTING
 <img src = '' width ='200' height ='200' />
-print 'ifconfig';
+

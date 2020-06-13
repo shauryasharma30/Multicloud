@@ -1,4 +1,4 @@
-WEBSERVER / CLOUD-COMPUTING
+<center>WEB-SERVER / CLOUD-COMPUTING</center>
 <br />
-<img src = 'd3gc8wglgieh2z.cloudfront.net/SPLASH.jpg' width ='200' height ='200' />
+<img src = 'http://d3gc8wglgieh2z.cloudfront.net/SPLASH.jpg' width ='100%' height ='100%' />
 
